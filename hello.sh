@@ -1,3 +1,3 @@
 #! /bin/bash
 
-echo "hello world. chamfing the autgor and email fbhwbviwnfwfnwifhbwejfnbcwjb"
+echo "hello world. chamfing the autgor and email fbhwbviwnfwfnwifhbwejfnbcwjb greghehtehtde"
