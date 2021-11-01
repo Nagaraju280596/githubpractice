@@ -1,5 +1,6 @@
 #! /bin/bash
 
-echo "hello world. chamfing the autgor and email fbhwbviwnfwfnwifhbwejfnbcwjb greghehtehtd fhweufhwfbwhrfbwrhbe"
+echo "new line in child branch"
 
-echo "anthor line"
+echo "hello world.commiting from the child branch and we are going to commit tem and pushing them to the child of remote repository"
+
